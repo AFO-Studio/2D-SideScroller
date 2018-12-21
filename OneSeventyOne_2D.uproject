@@ -47,6 +47,10 @@
 		{
 			"Name": "DatasmithContent",
 			"Enabled": false
+		},
+		{
+			"Name": "CreaturePackPlugin",
+			"Enabled": false
 		}
 	]
 }
